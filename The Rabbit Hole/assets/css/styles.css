@@ -4,7 +4,7 @@
 
 body{ 
     margin: 0; 
-    min-height: 100vh;
+    min-height: 100 vh;
 
     background-color: #017a05; 
     color: #106789; 
@@ -14,7 +14,7 @@ Arial, sans-serif, Helvetica;
  }
 
  .poster{
-    min-height: 100vh;
+    min-height: 100 vh;
     
     display: flex;
     flex-direction: column;
@@ -22,24 +22,24 @@ Arial, sans-serif, Helvetica;
     align-items: center;
     justify-content: center;
 
-    padding: 60px;
+    padding: 60 px;
  }
 
  .label {
-    margin-bottom: 24px;
+    margin-bottom: 24 px;
 
-    font-size: 12px;
-   letter-spacing: 5px;
+    font-size: 12 px;
+   letter-spacing: 5 px;
 
-   color: rgba(238, 229, 207, 0.5);
+   color: rgba (238, 229, 207, 0.5);
  } 
  .image{
-    width: 200px; 
-    height: 200px;
-    margin-bottom: 35px;
+    width: 200 px; 
+    height: 200 px;
+    margin-bottom: 35 px;
     background-size: cover;
     background-position: center;
-    border: 1px solid rgba(238, 229, 207, 0.5);
+    border: 1 px solid rgba (238, 229, 207, 0.5);
 
     background-image: url("img/The Rabit Hole.png");
     background-image: url("img/Mad Tea Party.png");
@@ -50,18 +50,18 @@ Arial, sans-serif, Helvetica;
  h1{ 
     margin: 0; 
 
-    font-size: 64px;
-    letter-spacing: 6px;
+    font-size: 64 px;
+    letter-spacing: 6 px;
 
     color: #ff4823; 
  }
  p{ 
-    max-width: 460px;
+    max-width: 460 px;
 
-    margin-top: 16px;
+    margin-top: 16 px;
     margin-bottom: 0;
 
     text-align: center;
     line-height: 1.6;
-    color: rgba(238, 229, 207, 0.5);
+    color: rgba (238, 229, 207, 0.5);
  }
